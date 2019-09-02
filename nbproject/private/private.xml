@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/Visualização/CadastroInsumos.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/Visualização/Consulta.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/Visualização/CadastroProdutos.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/Visualização/Home_Page.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/ModeloDAO/ProdutoDAO.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/ModeloDAO/InsumosDAO.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/ModeloConnection/Banco.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/ModeloBeans/ConsultaBeans.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/realtec/Realtec.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/ModeloBeans/InsumosBeans.java</file>
+            <file>file:/home/leslye/NetBeansProjects/Realtec/src/ModeloBeans/ProdutoBeans.java</file>
+        </group>
+    </open-files>
+</project-private>
